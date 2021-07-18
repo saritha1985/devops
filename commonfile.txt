@@ -1,1 +1,2 @@
-This is common file from git-c branch from git-c server
+This is the new commoon file created on branch-B 
+
