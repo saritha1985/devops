@@ -1,0 +1,2 @@
+This is a common file from git-B server master branch
+
